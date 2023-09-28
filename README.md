@@ -4,6 +4,8 @@
 
 <p align="center"><img width="288" height="64" src="https://cdn.discordapp.com/attachments/1155565875257147533/1156749731125547068/text-1695861022270.png?ex=65161aa3&is=6514c923&hm=a3d94b9ea5b591faaddc6e1d5ef210b4a0262f6c3d088ba1f964cfc643970c79&" alt=Icon"></p>
 
+<p><img width="144" height="32" src="https://cdn.discordapp.com/attachments/1155565875257147533/1156750078871076904/text-1695861105167.png?ex=65161af6&is=6514c976&hm=b4e01c1e5f7363213d390a6fded87381658a501fd23eb05f3e9c4969968d0f14&" alt=Icon"></p>
+
 <p><img width="144" height="32" src="https://cdn.discordapp.com/attachments/1155565875257147533/1156748938032984114/text-1695860826408.png?ex=651619e6&is=6514c866&hm=8e84e0f41219f8ad3b7647d41743631e330189ca6c3f54f0ff88292f625bcabc&" alt=Icon"></p>
 
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,html&perline=4)](https://skillicons.dev)
