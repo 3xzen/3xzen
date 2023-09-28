@@ -10,9 +10,9 @@
 
 <p><img width=148" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251548147722/text-1695861357282.png?ex=65161c0d&is=6514ca8d&hm=f79e701948bd03a411994d4eb40e6ed202ce4f71b150410a6ed6b582a755902e&=&width=888&height=977" alt=talkingwithfriends"></p>
 
-<p><img width=97" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251325853827/text-1695861371253.png?ex=65161c0d&is=6514ca8d&hm=ca18727f53dc38d300f090ad04fefac562b0a4e8096aa5dbaffe6d0a8d9d2555&=&width=654&height=97" alt=watchingshows"></p>
+<p><img width=109" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251325853827/text-1695861371253.png?ex=65161c0d&is=6514ca8d&hm=ca18727f53dc38d300f090ad04fefac562b0a4e8096aa5dbaffe6d0a8d9d2555&=&width=654&height=97" alt=watchingshows"></p>
 
-<p><img width=97" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251099373660/text-1695861379450.png?ex=65161c0d&is=6514ca8d&hm=2ed609a2024828e4cd35b7c9dc5666f10d397c08796ccda09d26e0f1c06437b5&=&width=396&height=97" alt=sleeping"></p>
+<p><img width=132" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251099373660/text-1695861379450.png?ex=65161c0d&is=6514ca8d&hm=2ed609a2024828e4cd35b7c9dc5666f10d397c08796ccda09d26e0f1c06437b5&=&width=396&height=97" alt=sleeping"></p>
 
 
 <p><img width="144" height="32" src="https://cdn.discordapp.com/attachments/1155565875257147533/1156750266956267630/text-1695861151022.png?ex=65161b23&is=6514c9a3&hm=6a0d05568aca86c2a995a1f0bd0651e753af3d8c2d41acbd5bfa55221d609b53&" alt=Icon"></p>
