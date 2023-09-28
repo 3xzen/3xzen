@@ -8,7 +8,7 @@
 
 <p><img width=97" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251791433738/text-1695861346633.png?ex=65161c0d&is=6514ca8d&hm=921e78e7ae520dc55f6a8b0d09c375875a80441f6675e2d4c523a1ed0205d7b8&=&width=582&height=97" alt=codingstuff"></p>
 
-<p><img width=97" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251548147722/text-1695861357282.png?ex=65161c0d&is=6514ca8d&hm=f79e701948bd03a411994d4eb40e6ed202ce4f71b150410a6ed6b582a755902e&=&width=888&height=977" alt=talkingwithfriends"></p>
+<p><img width=148" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251548147722/text-1695861357282.png?ex=65161c0d&is=6514ca8d&hm=f79e701948bd03a411994d4eb40e6ed202ce4f71b150410a6ed6b582a755902e&=&width=888&height=977" alt=talkingwithfriends"></p>
 
 <p><img width=97" height="16" src="https://media.discordapp.net/attachments/1155565875257147533/1156751251325853827/text-1695861371253.png?ex=65161c0d&is=6514ca8d&hm=ca18727f53dc38d300f090ad04fefac562b0a4e8096aa5dbaffe6d0a8d9d2555&=&width=654&height=97" alt=watchingshows"></p>
 
