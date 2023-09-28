@@ -3,4 +3,4 @@
 </p>
 
 ### ☆*: .｡. o(≧▽≦)o .｡.:*☆  **Languages**
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,html,go&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,html&perline=4)](https://skillicons.dev)
